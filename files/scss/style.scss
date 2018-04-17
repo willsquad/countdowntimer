@@ -175,6 +175,7 @@ section#main_content {
             font-size: 2em;
             text-align: center;
             margin-top: 5em;
+            padding: 25px 50px;
 
             @include media-breakpoint-down(xs) {
                 //margin-top: 4em;
